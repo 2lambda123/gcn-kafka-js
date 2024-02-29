@@ -2,7 +2,7 @@ repo_name: 2lambda123/gcn-kafka-js
 report_id: 8706eb5e4bd1b8d9e7f27b6a054e545a
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-09T06:52:29+00:00'
+timestamp: '2024-02-29T19:18:50+00:00'
 requested_by: lpsinger
 provider: github
 branch: main
@@ -68,7 +68,7 @@ tools:
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-09-11 06:35:21.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 2.6.2
   license: MIT
